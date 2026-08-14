@@ -1,4 +1,4 @@
-# AuditForge
+ # AuditForge
 
 <p align="center">
   <img src="assets/auditforge_logo.png" alt="AuditForge Logo" width="850">
@@ -10,6 +10,10 @@
 
 <p align="center">
   Assess. Analyze. Report.
+</p>
+
+<p align="center">
+  <em>Developed by Zainab Ijaz</em>
 </p>
 
 ---
